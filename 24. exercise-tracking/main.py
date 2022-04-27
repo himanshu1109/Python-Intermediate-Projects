@@ -7,8 +7,8 @@ WEIGHT_KG = 53
 HEIGHT_CM = 170
 AGE = 19
 
-APP_ID = "06bd26d0"
-API_KEY = "e5e8765e846b066191f2adf4e1108c8f"
+APP_ID = "ID"
+API_KEY = "KEY"
 
 exercise_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 sheet_endpoint = os.environ["YOUR_SHEET_ENDPOINT"]
